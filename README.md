@@ -1,0 +1,2 @@
+# competitive-programming
+AtCoderを中心に競技プログラミングの解答・学習ログを管理するリポジトリ
